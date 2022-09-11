@@ -9,3 +9,7 @@
 > [`07. Markdown Previewer`](https://markdownpreviewer.nubisub.xyz/)     
 > [`08. Random Quote`](https://randomquote.nubisub.xyz/)      
 > [`09. Contact App`](https://contact.nubisub.xyz/)      
+> [`10. Bar Chart`](https://nubisub.github.io/d3/bar/)      
+> [`11. Scatter Plot`](https://nubisub.github.io/d3/scatterplot/)   
+> [`12. Heat Map`](https://nubisub.github.io/d3/heatmap/)      
+> [`13. Tree Map`](https://nubisub.github.io/d3/treemap/)      
